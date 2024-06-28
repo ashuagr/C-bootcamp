@@ -1,0 +1,6 @@
+/* 1. Why do computers understand only binary language? */
+
+Ans- Since they can only understand two digital values, the most logical thing to implement is binary,
+which we do by creating logic that can treat “off” and “on” as 0 and 1 digits in binary,
+and perform operations with binary numbers represented as voltage values, but again at no point a computer knows anything,
+it’s just wired by us to treat voltage like we treat the digits 0 and 1.
