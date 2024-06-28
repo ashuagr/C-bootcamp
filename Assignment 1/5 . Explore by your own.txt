@@ -1,0 +1,16 @@
+/* 5. Explore by your own */
+
+a. What is the latest version of C Language?
+Ans- C23.
+
+b. Who developed C Language?
+Ans- Dennis Ritchie.
+
+c. What is the difference between System and Application Software?
+Ans- The main diffrence between Application Software and System Software is that
+      Application Software is designed for users to perform specific tasks.
+      While System Software operates and controls the computer hardware
+      so that the software application can perform a task.
+
+d. How to convert a number from a decimal number system to a binary number system?
+Ans- divide the digit by 2 and writing out the remainder aside.
