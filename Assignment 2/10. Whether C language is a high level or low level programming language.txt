@@ -1,0 +1,4 @@
+/* 10. Whether C language is a high level or low level programming language */
+
+Ans- C language considered a mid-level progamming language as it has 
+      both high level and low level language features.
