@@ -1,0 +1,3 @@
+/* 6. Where variables are created? (RAM, ROM, Secondary Storage or CPU) */
+
+Ans- Variables are created in RAM.
