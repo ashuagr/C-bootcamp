@@ -1,0 +1,3 @@
+/* 7. Who developed C Language? */
+
+Ans- C Language was developed by Dennis Ritchie.
