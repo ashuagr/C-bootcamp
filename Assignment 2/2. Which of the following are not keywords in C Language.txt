@@ -1,0 +1,4 @@
+/* 2. Which of the following are not keywords in C Language? 
+auto, dynamic, static, typedef, define, enum, is, default, this, super */
+
+Ans - super
