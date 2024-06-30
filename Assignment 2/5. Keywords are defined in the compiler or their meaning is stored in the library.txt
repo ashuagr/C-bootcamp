@@ -1,0 +1,3 @@
+/* 5. Keywords are defined in the compiler or their meaning is stored in the library? */
+
+Ans- Keywords are defined in the compiler.
