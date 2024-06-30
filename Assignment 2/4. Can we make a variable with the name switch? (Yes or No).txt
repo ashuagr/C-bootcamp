@@ -1,0 +1,3 @@
+/* 4. Can we make a variable with the name switch? (Yes or No) */
+
+Ans- No
