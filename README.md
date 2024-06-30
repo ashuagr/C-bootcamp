@@ -1,1 +1,1 @@
-this folder for assignment of c
+This folder is Assignments of C Language 
