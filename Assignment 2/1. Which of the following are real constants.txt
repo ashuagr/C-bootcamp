@@ -1,3 +1,4 @@
-/* 1. Which of the following are real constants?* /
+/* 1. Which of the following are real constants? 
+3, ‘A’, 4.5, 3.0, ‘+’, -25, -0.0 */
 
 Ans- 4.5, 3.0, -0.0
